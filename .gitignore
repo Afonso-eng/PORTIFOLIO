@@ -1,0 +1,15 @@
+# Ambiente virtual Python
+venv/
+env/
+.venv/
+
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Outros
+.DS_Store  # (se estiver no Mac)
+.idea/     # (se usa PyCharm)
+.vscode/   # (se usa VSCode)
